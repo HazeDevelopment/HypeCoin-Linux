@@ -1,1 +1,1 @@
-# HypeCoin-Windows
+# HypeCoin-Linux
